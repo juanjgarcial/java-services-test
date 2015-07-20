@@ -1,0 +1,11 @@
+com/synergygb/panama/testservices/RegisterInfo.class
+com/synergygb/panama/testservices/RegistrationService.class
+com/synergygb/panama/testservices/GenericListService.class
+com/synergygb/panama/testservices/JSONUtility.class
+com/synergygb/panama/testservices/ClientInfo.class
+com/synergygb/panama/testservices/LoginService.class
+com/synergygb/panama/testservices/LoginResponse.class
+com/synergygb/panama/testservices/RegisterResponse.class
+com/synergygb/panama/testservices/CarInfo.class
+com/synergygb/panama/testservices/LoginInfo.class
+com/synergygb/panama/testservices/WebServiceStatus.class
